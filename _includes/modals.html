@@ -35,6 +35,11 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+              {% if post.playstoreurl %}
+              <a href="{{ post.url }}" class="btn btn-primary" target="_blank">
+                <i class="fa fa-download"></i> Download in PlayStore
+              </a>
+              {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
