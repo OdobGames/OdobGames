@@ -34,12 +34,12 @@ color:
 footer:
   copyright: OdobGames
   location: GamingWorld
-  social: GooglePlay
+  social: Socials
   credits: Oscar Ordoñez
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: googleplay
+  - title: google-play
     url: https://play.google.com/store/apps/dev?id=6919392884455431395
   - title: linkedin
     url: www.linkedin.com/in/oscarordoñez
