@@ -28,6 +28,6 @@ Some of our games include:
 </p>
 
 
-You can find more information about our games, team and projects on our website: https://odobgames.github.io/OdobGames/
+You can find more information about our games, team and projects on our website: http://odobgames.great-site.net/
 
 You can also see our Play Store to get the latest Games:
